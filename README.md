@@ -14,6 +14,9 @@
 [Features](#features) • [Tech Stack](#tech-stack) • [Getting Started](#getting-started) • [Architecture](#architecture) • [Deploy](#deployment)
 
 
+https://github.com/user-attachments/assets/27bd7688-4e07-400d-b936-8e7730e29b30
+
+
 
 </div>
 
@@ -21,7 +24,6 @@
 
 ## About
 
-![RoastMyCV Banner](public/og-image.jpg)
 
 RoastMyCV is an intelligent resume analysis platform that provides **candid, constructive feedback** on your CV using Google's Gemini AI. Unlike traditional resume checkers, RoastMyCV delivers personality-driven critiques with adjustable intensity levels, helping job seekers identify weaknesses and improve their applications with actionable insights.
 
@@ -87,6 +89,8 @@ RoastMyCV is an intelligent resume analysis platform that provides **candid, con
 ---
 
 ## Getting Started
+
+![RoastMyCV Banner](public/og-image.jpg)
 
 ### Prerequisites
 
@@ -326,7 +330,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Project Link**: [https://github.com/Jeevadharshinii/ROASTMYCV](https://github.com/Jeevadharshinii/ROASTMYCV)
 
-**Live Demo**: [https://roastmycv.vercel.app](https://proufrontendassignment.vercel.app/)
+**Live Demo**: [https://prouassignment.vercel.app](https://proufrontendassignment.vercel.app/)
 
 ---
 
