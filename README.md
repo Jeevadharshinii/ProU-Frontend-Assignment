@@ -1,12 +1,12 @@
-# RoastMyCV - AI-Powered Resume Roaster
+# ROASTMYCV 
 
 <div align="center">
 
-![RoastMyCV Banner](public/og-image.jpg)
+
 
 **Get brutally honest, AI-powered feedback on your resume**
 
-[![Live Demo](https://img.shields.io/badge/demo-live-success?style=for-the-badge)](https://roastmycv.vercel.app)
+[![Live Demo](https://img.shields.io/badge/demo-live-success?style=for-the-badge)](https://proufrontendassignment.vercel.app/)
 [![License](https://img.shields.io/badge/license-MIT-blue?style=for-the-badge)](LICENSE)
 [![React](https://img.shields.io/badge/React-18-61DAFB?style=for-the-badge&logo=react)](https://reactjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
@@ -18,6 +18,8 @@
 ---
 
 ## About
+
+![RoastMyCV Banner](public/og-image.jpg)
 
 RoastMyCV is an intelligent resume analysis platform that provides **candid, constructive feedback** on your CV using Google's Gemini AI. Unlike traditional resume checkers, RoastMyCV delivers personality-driven critiques with adjustable intensity levels, helping job seekers identify weaknesses and improve their applications with actionable insights.
 
@@ -322,7 +324,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Project Link**: [https://github.com/Jeevadharshinii/ROASTMYCV](https://github.com/Jeevadharshinii/ROASTMYCV)
 
-**Live Demo**: [https://roastmycv.vercel.app](https://roastmycv.vercel.app)
+**Live Demo**: [https://roastmycv.vercel.app](https://proufrontendassignment.vercel.app/)
 
 ---
 
